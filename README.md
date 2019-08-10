@@ -87,7 +87,7 @@
     involves a thirty-minute test comprised of 80 mathematical problems 
     that are solved with a handheld calculator.<br>
     Source: <a href="https://www.uiltexas.org/academics/stem/calculator-applications">
-    UIL Website</a>(Revised) </p>
+    UIL Website</a> (Revised) </p>
   
    <ul class="lists">
    <li><a href="https://drive.google.com/open?id=1KHGixioN0WaB9jFYHYgRtpcuqZMTCYDt">
