@@ -87,7 +87,7 @@ Students will be given a 10-minute, fill-in-the-blank test which they must compl
   
   <p id="math"> Students begin taking math in elementary school and continue taking it in high school. Learning to complete math problems quickly is a valuable skill in all facets of life including engineering, accounting, completing a tax return and even grocery shopping. This contest includes problems covering, but not limited to: numeration systems, arithmetic operations involving whole numbers, integers, fractions, decimals, exponents, order of operations, probability, statistics, number theory, simple interest, measurements and conversions. Geometry and algebra problems may be included as appropriate for the grade level. <br>
     Source: <a href="https://www.uiltexas.org/aplus/events/aplus-mathematics">
-    UIL Website</a> (Revised) </p>
+    UIL Website</a> </p>
   
    <ul class="lists">
    <li><a href="https://www.bryantheath.com">Bryant Heath website</a></li>
