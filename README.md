@@ -58,7 +58,7 @@
   <p class="subtitle">Number Sense</p>
   
   <p id="number-sense">The Number Sense Contest involves a ten-minute, 
-    80 question mental math test covering all high school mathematics 
+    80 question mental math test covering all middle school mathematics 
     courses. Short cuts need to be developed and practiced in order 
     to compete and finish the test. <br> 
     Source: <a href="https://www.uiltexas.org/academics/stem/number-sense">
