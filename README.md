@@ -7,14 +7,7 @@
   <title>iqms-uil home</title>
   
   <style>
-  
-    #title {
-      text-align: center;
-      font-family: sans-serif;
-      font-size: 30px;
-      font-weight: bold;
-    }
-    
+ 
     .subtitle {
       text-align: center;
       font-family: sans-serif;
@@ -52,8 +45,6 @@
 </head>
   
 <body>
-  
-  <p id="title">IDEA Quest College Preparatory</p>
   
   <p class="subtitle">What are you looking for?</p>
     <ul class="lists">
