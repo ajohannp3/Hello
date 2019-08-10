@@ -56,7 +56,6 @@
 <body>
   
   <p id="title">IDEA Quest College Preparatory</p>
-  <p class="subtitle">Middle School UIL Academics</p>
   
   <p class="subtitle">What are you looking for?</p>
     <ul class="lists">
