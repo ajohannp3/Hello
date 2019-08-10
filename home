@@ -81,10 +81,8 @@
   
   <p class="subtitle">Number Sense</p>
   
-  <p id="number-sense">The Number Sense Contest involves a ten-minute, 
-    80 question mental math test covering all high school mathematics 
-    courses. Short cuts need to be developed and practiced in order 
-    to compete and finish the test. <br> 
+  <p id="number-sense">The Number Sense Contest involves a ten-minute, 80 question mental math test covering all high school mathematics 
+    courses. Short cuts need to be developed and practiced in order to compete and finish the test. <br> 
     Source: <a href="https://www.uiltexas.org/academics/stem/number-sense">
     UIL Website</a> </p>
   
@@ -98,8 +96,7 @@
   
   <p class="subtitle">Calculator Applications</p>
   
-  <p id="calculator-applications"> The Calculator Applications Contest 
-    involves a thirty-minute test comprised of 80 mathematical problems 
+  <p id="calculator-applications"> The Calculator Applications Contest involves a thirty-minute test comprised of 80 mathematical problems 
     that are solved with a handheld calculator.<br>
     Source: <a href="https://www.uiltexas.org/academics/stem/calculator-applications">
     UIL Website</a>(Revised) </p>
@@ -112,10 +109,8 @@
 
    <p class="subtitle">General Mathematics</p>
   
-  <p id="math"> The Mathematics Contest consists of a 40-minute, 
-    multiple-choice exam with 60 questions, designed to test knowledge
-    and understanding in the areas of basic mathematics, algebra I and
-    II, geometry, and trigonometry. <br>
+  <p id="math"> The Mathematics Contest consists of a 40-minute, multiple-choice exam with 60 questions, designed to test knowledge
+  and understanding in the areas of basic mathematics, algebra I and II, geometry, and trigonometry. <br>
     Source: <a href="https://www.uiltexas.org/academics/stem/mathematics">
     UIL Website</a> (Revised) </p>
   
@@ -127,15 +122,11 @@
   
   <p class="subtitle">Science</p>
   
-  <p id="science"> The contest was designed to test not only memory but the
-    ability to critically think about science and scientific processes 
-    and concepts. Such concepts include, but are not limited to: matter
-    and energy, equilibrium, force and motion, physical and chemical 
-    properties, the relationship between organisms and the environment, 
-    the components of our solar system, the composition of matter and 
-    genetics. The contest will build upon the vast body of changing and 
-    increasing knowledge described by physical, mathematical, and 
-    conceptual models. <br>
+  <p id="science"> The contest was designed to test not only memory but the ability to critically think about science and scientific 
+  processes and concepts. Such concepts include, but are not limited to: matter and energy, equilibrium, force and motion, physical 
+  and chemical properties, the relationship between organisms and the environment, the components of our solar system, the composition of matter and 
+  genetics. The contest will build upon the vast body of changing and increasing knowledge described by physical, mathematical, and 
+  conceptual models. <br>
     Source: <a href="https://www.uiltexas.org/aplus/events/aplus-science">
     UIL Website</a> </p>
   
