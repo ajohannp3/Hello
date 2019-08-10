@@ -57,11 +57,10 @@
   
   <p class="subtitle">Number Sense</p>
   
-  <p id="number-sense">The Number Sense Contest involves a ten-minute, 
-    80 question mental math test covering all middle school mathematics 
-    courses. Short cuts need to be developed and practiced in order 
-    to compete and finish the test. <br> 
-    Source: <a href="https://www.uiltexas.org/academics/stem/number-sense">
+  <p id="number-sense">Individuals are called upon every day to use their ability to make quick mental calculations to make decisions. The development of such abilities should be an integral part of the math curriculum. Concepts covered include, but are not limited to: addition, subtraction, multiplication, division, proportions, and use of mathematic notation.
+
+Students will be given a 10-minute, fill-in-the-blank test which they must complete without doing calculations on paper or on a calculator. Erasures and mark-outs are not permitted. <br> 
+    Source: <a href="https://www.uiltexas.org/aplus/events/aplus-number-sense">
     UIL Website</a> </p>
   
  <ul class="lists">
@@ -74,11 +73,9 @@
   
   <p class="subtitle">Calculator Applications</p>
   
-  <p id="calculator-applications"> The Calculator Applications Contest 
-    involves a thirty-minute test comprised of 80 mathematical problems 
-    that are solved with a handheld calculator.<br>
-    Source: <a href="https://www.uiltexas.org/academics/stem/calculator-applications">
-    UIL Website</a> (Revised) </p>
+  <p id="calculator-applications"> The calculator applications contest is designed to stimulate the development of mathematical and calculator skills for students in grade 6,7 and 8. Goals are both intellectual and practical: developing mathematical reasoning and knowledge and requiring the application of problem-solving skills toward realistic problems. Students will take a test containing 80 problems in 30 minutes. The contest consists of problems which may include calculations involving addition, subtraction, multiplication, division, roots, and powers. It also includes straight-forward calculation problems, and simple geometric and stated problems similar to those found in recently adopted textbooks.<br>
+    Source: <a href="https://www.uiltexas.org/aplus/events/aplus-calculator-applications">
+    UIL Website</a> </p>
   
    <ul class="lists">
    <li><a href="https://drive.google.com/open?id=1KHGixioN0WaB9jFYHYgRtpcuqZMTCYDt">
@@ -88,11 +85,8 @@
 
    <p class="subtitle">General Mathematics</p>
   
-  <p id="math"> The Mathematics Contest consists of a 40-minute, 
-    multiple-choice exam with 60 questions, designed to test knowledge
-    and understanding in the areas of basic mathematics, algebra I and
-    II, geometry, and trigonometry. <br>
-    Source: <a href="https://www.uiltexas.org/academics/stem/mathematics">
+  <p id="math"> Students begin taking math in elementary school and continue taking it in high school. Learning to complete math problems quickly is a valuable skill in all facets of life including engineering, accounting, completing a tax return and even grocery shopping. This contest includes problems covering, but not limited to: numeration systems, arithmetic operations involving whole numbers, integers, fractions, decimals, exponents, order of operations, probability, statistics, number theory, simple interest, measurements and conversions. Geometry and algebra problems may be included as appropriate for the grade level. <br>
+    Source: <a href="https://www.uiltexas.org/aplus/events/aplus-mathematics">
     UIL Website</a> (Revised) </p>
   
    <ul class="lists">
