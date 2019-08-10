@@ -8,16 +8,11 @@
   
   <style>
   
-    body {
-      background-color: rgb(255,255,200)
-    }
-    
     #title {
       text-align: center;
       font-family: sans-serif;
       font-size: 30px;
       font-weight: bold;
-      background-color: rgb(0,128,0);
     }
     
     .subtitle {
@@ -42,7 +37,6 @@
         font-size: 15px;
         text-align: center;
         font-weight: bold;
-      background-color: rgb(0,128,0);
       }
     
     #calculator-applications {
