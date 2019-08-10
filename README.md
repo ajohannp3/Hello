@@ -63,7 +63,7 @@
       <li><a href="#calculator-applications">Calculator Applications</a></li>
       <li><a href="#math">Mathematics</a></li>
       <li><a href="#science">Science</a></li>
-      <li>Other events</li>
+      <li>Other events (No resources available yet!)</li>
     </ul>
   
   <p class="subtitle">Number Sense</p>
