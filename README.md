@@ -31,14 +31,7 @@
         font-family: sans-serif;
         font-size: 15px
       }
-    
-    .footer {
-        font-family: sans-serif;
-        font-size: 15px;
-        text-align: center;
-        font-weight: bold;
-      }
-    
+      
     #calculator-applications {
       font-family: sans-serif;
       font-size: 15px
@@ -132,10 +125,6 @@
      <li><a href="https://drive.google.com/open?id=1vlYsGLcwHkjWoFXTE1ASaFPsXjCI0MhPaYUvGKGL1dY">
        Tony Liu's TMSCA Science Guide (Revised by Aaron)</a></li>
   </ul>
-  
-  <p class="footer">This page is managed by Aaron Piando. <br>
-  To submit any comments or concerns, please email me at
-    ajpiando3@gmail.com.</p>
   
 </body>
   
